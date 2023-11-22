@@ -1,0 +1,71 @@
+body{
+    margin:0px;
+    padding:0px;
+    position:absolute;
+    background-size: contain;
+}
+h1{
+    margin-top:100px;
+    margin-left:90px;
+}
+#num{
+    width:100px;
+    height:45px;
+    text-transform: capitalize;
+    font-weight:310px;
+    margin-left:100px;
+}
+input[type=number]{
+    position:absolute;
+    width:100px;
+    height:80px;
+    width:300px;
+    height:40px;
+}
+#btn{
+   padding:15px 120px;
+   margin-top:20px;
+   margin-left:100px;
+   text-transform: capitalize; 
+   background-color:#dc143c;
+   color:white;
+   cursor:pointer;
+}
+h4{
+    text-align: center;
+}
+#btn2{
+    padding:15px 120px;
+    text-transform: capitalize;
+    text-align: center;
+    color:rgb(28,28,28);
+    background-color:whitesmoke;
+    margin-left:100px;
+    font-size:300;
+    cursor:pointer;
+}
+#btn3{
+    padding:15px 120px;
+    text-transform: capitalize;
+    text-align: center;
+    color:rgb(28,28,28);
+    background-color:whitesmoke;
+    margin-left:100px;
+    font-size:300;
+    cursor:pointer;
+}
+h6{
+    font-size:20px;
+    text-transform: capitalize;
+    margin-left:100px;
+    color:rgb(28,28,28);
+}
+#create{
+    margin-top:-70px;
+    margin-left:250px;
+    text-transform:capitalize;
+    font-size:20px;
+}
+a{
+    text-decoration:none;
+}
